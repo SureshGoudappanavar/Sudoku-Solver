@@ -1,2 +1,2 @@
 # Suduko-Solver
-This is a Suduko Solver Writen in Java Programming
+This is a Sudoku Solver Writen in Java Programming
